@@ -1,0 +1,22 @@
+header {
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  background-color: chartreuse;
+  color: black;
+}
+
+nav {
+}
+
+@media screen and (max-width: 992px) {
+  .card {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: 100%;
+  }
+}
