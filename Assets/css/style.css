@@ -1,12 +1,43 @@
 header {
-  margin: auto;
-  padding: 20px;
-  text-align: center;
-  background-color: chartreuse;
-  color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: cornflowerblue;
 }
 
-nav {
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-top: 10px;
+}
+
+header a {
+  color: black;
+  font-size: 25px;
+  margin-left: 25px;
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: cornflowerblue;
+}
+
+footer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  list-style: none;
+  padding-top: 10px;
+}
+
+footer a {
+  color: black;
+  font-size: 20px;
+  margin-left: 25px;
 }
 
 @media screen and (max-width: 992px) {
