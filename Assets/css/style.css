@@ -108,6 +108,12 @@ img {
   align-items: center;
   justify-content: space-around;
   color: black;
+  opacity: 0.75;
+}
+
+/* visual style */
+.card:hover {
+  opacity: 1;
 }
 
 /* footer with background image */
