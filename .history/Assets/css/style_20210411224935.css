@@ -157,14 +157,7 @@ footer a {
     width: 100%;
   }
 }
-
 @media screen and (max-width: 480px) {
-  .card {
-    width: 100%;
-  }
-}
-
-@media screen and (max-width: 320px) {
   .card {
     width: 100%;
   }
