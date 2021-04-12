@@ -84,15 +84,9 @@ img {
 }
 
 #scheduler {
-  background-image: url("../Work-Day_Scheduler.png");
+  background-image: url("../Assets/Work-Day_Scheduler.png");
   background-size: cover;
-  background-position: center;
-}
-
-#password {
-  background-image: url("../Password-Generator.png");
-  background-size: cover;
-  background-position: center;
+  background-position: top;
 }
 
 /* all cards */

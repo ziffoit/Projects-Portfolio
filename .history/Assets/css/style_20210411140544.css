@@ -89,12 +89,6 @@ img {
   background-position: center;
 }
 
-#password {
-  background-image: url("../Password-Generator.png");
-  background-size: cover;
-  background-position: center;
-}
-
 /* all cards */
 .flex-item {
   display: flex;

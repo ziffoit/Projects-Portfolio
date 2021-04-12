@@ -79,20 +79,8 @@ img {
   height: 100%;
   align-items: center;
   justify-content: space-around;
-  color: white;
+  color: black;
   font-size: 40px;
-}
-
-#scheduler {
-  background-image: url("../Work-Day_Scheduler.png");
-  background-size: cover;
-  background-position: center;
-}
-
-#password {
-  background-image: url("../Password-Generator.png");
-  background-size: cover;
-  background-position: center;
 }
 
 /* all cards */
