@@ -1,5 +1,6 @@
 body {
   min-width: 320px;
+  background-color: whitesmoke;
 }
 /* header with background image */
 header {
@@ -91,6 +92,12 @@ img {
 
 #password {
   background-image: url("../Password-Generator.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#dateable {
+  background-image: url("../Dateable.png");
   background-size: cover;
   background-position: center;
 }

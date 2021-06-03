@@ -15,4 +15,4 @@ https://ziffoit.github.io/Projects-Portfolio/
 
 ### Screenshot
 
-![screenshot](assets/portfolioScreenshot.png)
+![screenshot](Assets/portfolioScreenshot.png)
