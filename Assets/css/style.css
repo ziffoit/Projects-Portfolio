@@ -1,4 +1,6 @@
 body {
+  margin: 0px;
+  padding: 0px;
   min-width: 320px;
   background-color: whitesmoke;
 }
@@ -10,6 +12,10 @@ header {
   background-image: url("../rohit-tandon-9wg5jCEPBsw-unsplash.jpg");
   background-size: cover;
   background-position: center;
+  margin-bottom: 10px;
+  position: sticky;
+  top: 0; 
+  width: 100%;
 }
 
 /* instead of nav bar */
@@ -144,6 +150,9 @@ footer {
   background-size: cover;
   background-position: center;
   margin-top: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 footer a {
@@ -176,3 +185,4 @@ footer a {
     width: 100%;
   }
 }
+
