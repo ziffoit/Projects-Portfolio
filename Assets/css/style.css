@@ -108,6 +108,12 @@ img {
   background-position: center;
 }
 
+#weatherdashboard {
+  background-image: url("../weatherdashboard.png");
+  background-size: cover;
+  background-position: center;
+}
+
 /* all cards */
 .flex-item {
   display: flex;
