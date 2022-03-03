@@ -123,10 +123,10 @@ img {
 }
 
 /* just the big project */
-.flex-item:first-child {
+/* .flex-item:first-child {
   flex-basis: 100%;
   min-height: 450px;
-}
+} */
 
 /* all other projects */
 .card {
@@ -140,6 +140,18 @@ img {
   justify-content: space-around;
   color: black;
   opacity: 0.75;
+}
+
+.card a {
+  padding: 10px 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.card a:hover {
+  background-color: black;
+  color: white;
+  border-radius: 15px;
 }
 
 /* visual style */
